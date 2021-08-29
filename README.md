@@ -19,7 +19,7 @@ The `CTF` for `SST Inc`
 13. <a href="ctf/challenge/Starbucks/">Starbucks (50 Points)</a>
 14. <a href="ctf/challenge/Scan%20the%20QR/">Scan the QR (50 Points)</a>
 
-Total Points = `325`
+Total Points = `335`
 
 
 ### Good Luck...

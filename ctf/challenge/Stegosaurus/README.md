@@ -4,4 +4,4 @@
 That Stego is very cool. 
 
 ### Files
-<img src="setgo.jpeg">
+<img src="stego.jpeg">

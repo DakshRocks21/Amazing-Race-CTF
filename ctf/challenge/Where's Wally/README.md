@@ -7,6 +7,6 @@ The flag is in the format FLAG{AAAAAA_BBBBBB_CCCCCC} where each string of identi
 ### Files
 <img src="image1.jpeg">
 <br>
-![Location2](/ctf/challenge/Where's%20Wally/image2.jpeg)
+<img src="image2.jpeg">
 <br>
-![Location2](/ctf/challenge/Where's%20Wally/image3.jpeg)
+<img src="image3.jpeg">

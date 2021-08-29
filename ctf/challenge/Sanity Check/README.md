@@ -1,5 +1,6 @@
 ## Sanity Check
-<img src="image1.jpeg">
+<br>
+<img src="image1.jpg">
 <br>
 Sanity Check is free points.  
 <br>

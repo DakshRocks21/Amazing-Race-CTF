@@ -7,7 +7,7 @@ The `CTF` for `SST Inc`
 1. <a href="ctf/challenge/Sanity%20Check/">Sanity Check (5 Points)</a> 
 2. <a href="ctf/challenge/Salad/">Salad (10 Points)</a>
 3. <a href="ctf/challenge/Is%20this%20English/">Is this English? (10 Points)</a>
-4. <a href="ctf/challenge/Work%20in%20Progress/">Work in Progress (10 Points)</a>
+4. <a href="ctf/challenge/Work%20In%20Progress/">Work in Progress (10 Points)</a>
 5. <a href="ctf/challenge/Cat%20sad/">Cat sad (5 Points)</a>
 11. <a href="ctf/challenge/Stegosaurus/">Stegosaurus (20 Points)</a>
 6. <a href="ctf/challenge/When%20the%20Imposter%20is%20sus/">When the Imposter is sus (20 Points)</a>

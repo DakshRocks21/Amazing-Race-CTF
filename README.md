@@ -21,8 +21,12 @@ The `CTF` for `SST Inc`
 15. <a href="ctf/challenge/KidRSA/">KidRSA (50 Points)</a>
 16. <a href="ctf/challenge/Starbucks/">Starbucks (50 Points)</a>
 17. <a href="ctf/challenge/Scan%20the%20QR/">Scan the QR (50 Points)</a>
+18. <a href="ctf/challenge/What%20is%20my%20bunny's%20name/">What is my bunny's name (10 Points)</a> !! NEW !!
+19. <a href="ctf/challenge/Find%20da%20Joe/">Find da Joe (20 Points)</a> !! NEW !!
 
-Total Points = `375`
+Total Points = `405`
+
+Pls add more columns for the new challenges
 
 
 ### Good Luck...
